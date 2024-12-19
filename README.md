@@ -16,9 +16,10 @@ I’ve spent years tinkering with Windows, troubleshooting, and even building my
 Office 365, Google Suite, you name it—I’m familiar with all the tools.
 I’m sharpening my skills for a software engineering career and exploring entry-level roles in IT and tech support.
 
-🌍 Personal Fun Facts
-I’m fascinated by watches—classic, futuristic, or anime-themed (think Overlord or Hatsune Miku)!
-Gaming, coding, and learning new things are my favorite ways to spend time.
+🌟 
+I'm a huge fan of gaming, both playing and developing my own!
+Im A weeb 
+Problem-solving and learning new skills keep me motivated—whether it’s debugging code or exploring new hobbies.
 
 🔧 What You'll Find Here
 Code snippets, gaming projects, and experiments with C++ and Unreal Engine.
