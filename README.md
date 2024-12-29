@@ -8,20 +8,24 @@ I'm crafting a Dark Souls-inspired game in Unreal Engine 5. It’s a blend of ch
 My text-based project, "Fighty Fight Game", brings fighters to life with random stats and thrilling AI battles!
 I'm all about the classics in C++—vector libraries, loops, and .h files are my go-tos.
 
-🎓 Academic Journey
+🎓 Academic Journey:
+
 I'm currently diving deep into C++ and exploring writing styles in EGL 101.
 My math classes are an adventure into real numbers, algebra, logarithms, calculus, and beyond.
 
-💻 Tech Enthusiast
+💻 Tech Enthusiast:
+
 I’ve spent years tinkering with Windows, troubleshooting, and even building my own PC!
 Office 365, Google Suite, you name it—I’m familiar with all the tools.
 I’m sharpening my skills for a software engineering career and exploring entry-level roles in IT and tech support.
 
-🌟 
+🌟 :
+
 I'm a huge fan of gaming, both playing and developing my own!
 Im A weeb 
 Problem-solving and learning new skills keep me motivated—whether it’s debugging code or exploring new hobbies.
 
-🔧 What You'll Find Here
+🔧 What You'll Find Here:
+
 Code snippets, gaming projects, and experiments with C++ and Unreal Engine.
 Explorations into AI and gameplay logic with random stat generation.
