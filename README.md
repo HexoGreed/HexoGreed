@@ -2,7 +2,8 @@
 
 Welcome to my GitHub! Here's a collection of fun facts about me, blending my passions, projects, and quirks:
 
-🎮 Projects I'm Proud Of
+🎮 Projects I'm Proud Of:
+
 I'm crafting a Dark Souls-inspired game in Unreal Engine 5. It’s a blend of challenges, creativity, and code.
 My text-based project, "Fighty Fight Game", brings fighters to life with random stats and thrilling AI battles!
 I'm all about the classics in C++—vector libraries, loops, and .h files are my go-tos.
