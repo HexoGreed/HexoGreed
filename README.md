@@ -10,7 +10,7 @@ I'm all about the classics in C++—vector libraries, loops, and .h files are my
 
 🎓 Academic Journey:
 
-I'm currently diving deep into C++ and exploring writing styles in EGL 101.
+I'm currently diving deep into C++ and exploring writing styles in m english classes.
 My math classes are an adventure into real numbers, algebra, logarithms, calculus, and beyond.
 
 💻 Tech Enthusiast:
