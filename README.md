@@ -4,9 +4,7 @@ Welcome to my GitHub! Here's a collection of fun facts about me, blending my pas
 
 🎮 Projects I'm Proud Of:
 
-I'm crafting a Dark Souls-inspired game in Unreal Engine 5. It’s a blend of challenges, creativity, and code.
-My text-based project, "Fighty Fight Game", brings fighters to life with random stats and thrilling AI battles!
-I'm all about the classics in C++—vector libraries, loops, and .h files are my go-tos.
+Nothing because nothiing i make is ever good enough for me. Always strive to improve on perfection.
 
 🎓 Academic Journey:
 
@@ -22,10 +20,8 @@ I’m sharpening my skills for a software engineering career and exploring entry
 🌟 :
 
 I'm a huge fan of gaming, both playing and developing my own!
-Im A weeb 
 Problem-solving and learning new skills keep me motivated—whether it’s debugging code or exploring new hobbies.
 
 🔧 What You'll Find Here:
 
-Code snippets, gaming projects, and experiments with C++ and Unreal Engine.
-Explorations into AI and gameplay logic with random stat generation.
+Code snippets, gaming projects, and experiments with C++.
